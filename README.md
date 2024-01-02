@@ -42,4 +42,4 @@ Special thanks to the course instructor [Instructor's Name] and all the students
 ## Contact
 - **Name**: Zahra Amini
 - [**LinkedIn**](https://www.linkedin.com/in/zahraamini-ai/)
-- [**Links**:](https://zil.ink/zahraamini)
+- [**Links**](https://zil.ink/zahraamini)

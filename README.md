@@ -37,7 +37,7 @@ Students are encouraged to contribute to this repository by:
 Your feedback is valuable in improving these exercise sessions. Feel free to raise issues or contact me directly for any suggestions or queries.
 
 ## Acknowledgements
-Special thanks to the course instructor [Instructor's Name] and all the students who have contributed to making these sessions interactive and informative.
+Special thanks to the course instructor [Mahmud Alipurd](https://github.com/MhmudAlpurd), [Filoger](https://github.com/filoger), and all the students who have contributed to making these sessions interactive and informative.
 
 ## Contact
 - **Name**: Zahra Amini

@@ -9,7 +9,9 @@ Each notebook in this repository corresponds to a specific topic or exercise ses
 Below is a list of the Jupyter Notebooks available in this repository along with a brief description of each:
 - Python:
   1. [Solving Exercises 01](https://github.com/aminizahra/FFCVS_Dec2024/blob/main/Python/SolvingExercises01.ipynb)
-  2. ...
+  2. [Solving Exercises 02](https://github.com/aminizahra/FFCVS_Dec2024/blob/main/Python/SolvingExercises02.ipynb)
+  3. [Solving Exercises 03](https://github.com/aminizahra/FFCVS_Dec2024/tree/main/Python/SolvingExercises03)
+  4. [Solving Exercises 04](https://github.com/aminizahra/FFCVS_Dec2024/blob/main/Python/SolvingExercises04-AnswerSheet.ipynb)
 ## How to Use
 To use these notebooks:
 1. Clone this repository to your local machine.

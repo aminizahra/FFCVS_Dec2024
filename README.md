@@ -12,6 +12,9 @@ Below is a list of the Jupyter Notebooks available in this repository along with
   2. [Solving Exercises 02](https://github.com/aminizahra/FFCVS_Dec2024/blob/main/Python/SolvingExercises02.ipynb)
   3. [Solving Exercises 03](https://github.com/aminizahra/FFCVS_Dec2024/tree/main/Python/SolvingExercises03)
   4. [Solving Exercises 04](https://github.com/aminizahra/FFCVS_Dec2024/blob/main/Python/SolvingExercises04-AnswerSheet.ipynb)
+
+- Deep Learning:
+  1. [Solving Exercises 01&02](https://github.com/aminizahra/FFCVS_Dec2024/tree/main/Deep%20Learning/01_EX01%26EX02)
 ## How to Use
 To use these notebooks:
 1. Clone this repository to your local machine.
